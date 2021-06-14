@@ -1,4 +1,4 @@
-@charset="UTF-8";
+@charset "UTF-8";
 
 
 header{
@@ -9,7 +9,6 @@ header{
 #wrapper{
     width: 1000px;
     display: flex;
-    justify-content: space-between;
 }
 
 #main {
