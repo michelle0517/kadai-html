@@ -1,0 +1,28 @@
+@charset="UTF-8";
+
+
+header{
+    width: 100%;
+    background-color:#ffcccc;
+}
+
+#wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+
+#main {
+    width: 700px;
+    background-color: #ccffcc;
+}
+
+#menu {
+    width: 300px;
+    display: flex;
+    background-color: #ccccff;
+}
+
+footer{
+    width: 100%;
+    background-color:#ffccff;
+}
