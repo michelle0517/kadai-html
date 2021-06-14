@@ -2,11 +2,12 @@
 
 
 header{
-    width: 100%;
+    width: 1000px;
     background-color:#ffcccc;
 }
 
 #wrapper{
+    width: 1000px;
     display: flex;
     justify-content: space-between;
 }
@@ -18,11 +19,10 @@ header{
 
 #menu {
     width: 300px;
-    display: flex;
     background-color: #ccccff;
 }
 
 footer{
-    width: 100%;
+    width: 1000px;
     background-color:#ffccff;
 }
